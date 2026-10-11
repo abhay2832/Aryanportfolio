@@ -1,4 +1,3 @@
-```js
 const fs = require('node:fs');
 const path = require('node:path');
 
@@ -24,5 +23,4 @@ const content =
 
 fs.writeFileSync(outputFile, content, 'utf8');
 
-console.log(`Success! ${songs.length} MP3 song(s) found.`);
-```
+console.log(`Success! ${songs.length} MP3 song(s) found.`)
