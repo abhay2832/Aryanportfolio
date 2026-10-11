@@ -1,3 +1,4 @@
+```json
 {
   "name": "aryanportfolio",
   "private": true,
@@ -5,7 +6,7 @@
   "type": "module",
   "scripts": {
     "dev": "vite",
-    "build": "vite build",
+    "build": "node scripts/generate-songs.cjs && vite build",
     "lint": "eslint .",
     "preview": "vite preview"
   },
@@ -23,3 +24,4 @@
     "vite": "^5.4.11"
   }
 }
+```
