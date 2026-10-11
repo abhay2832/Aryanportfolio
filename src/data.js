@@ -30,7 +30,9 @@ export const PROJECTS = [
 export const CERTS = [
 ]
 
+
 export const SONGS = [
   [asset('song1.mp3'), 'Song 1'],
   [asset('song2.mp3'), 'Song 2'],
+  [asset('song3.mp3'), 'Song 3'],
 ]
