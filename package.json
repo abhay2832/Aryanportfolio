@@ -1,4 +1,4 @@
-```json
+
 {
   "name": "aryanportfolio",
   "private": true,
@@ -24,4 +24,3 @@
     "vite": "^5.4.11"
   }
 }
-```
