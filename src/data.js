@@ -1,4 +1,5 @@
 // All your content lives here. Edit this file to change the website.
+import { SONG_FILES } from './generated-songs.js'
 export const asset = (p) => import.meta.env.BASE_URL + p
 
 export const EMAIL = 'pp9099034@gmail.com'
@@ -30,9 +31,12 @@ export const PROJECTS = [
 export const CERTS = [
 ]
 
+export const SONGS = SONG_FILES.map((filename, index) => {
+  const title = filename
+    .replace(/\.mp3$/i, '')
+    .replace(/([a-z])(\d)/gi, '$1 $2')
+    .replace(/[-_]+/g, ' ')
+    .replace(/\b\w/g, char => char.toUpperCase());
 
-export const SONGS = [
-  [asset('song1.mp3'), 'Song 1'],
-  [asset('song2.mp3'), 'Song 2'],
-  [asset('song3.mp3'), 'Song 3'],
-]
+  return [asset(filename), title || `Song ${index + 1}`];
+});
