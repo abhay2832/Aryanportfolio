@@ -11,13 +11,11 @@ export const GMAIL =
 export const TITLES = [
   ['ARYAN', 'MISHRA'],
   ['B.COM', 'STUDENT'],
-  ['WEB/APP', 'BUILDER'],
+  ['WEB', 'BUILDER'],
   ['FUTURE', 'LEADER'],
   ['CREATIVE', 'MIND'],
   ['READY TO', 'WORK'],
 ]
-```
-
 export const SKILLS_1 = ['Microsoft Word', 'Microsoft Excel', 'PowerPoint', 'Google Workspace', 'Tally', 'Basic GST', 'Financial Accounting', 'Data Entry', 'Internet Research', 'Email Writing', 'AI Tools & Prompting']
 export const SKILLS_2 = ['Communication', 'Leadership', 'Teamwork', 'Problem Solving', 'Time Management', 'Customer Handling', 'Analytical Skills', 'Decision Making', 'Adaptability', 'Critical Thinking']
 
