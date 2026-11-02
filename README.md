@@ -1,113 +1,108 @@
-# Aryan Mishra | Personal Portfolio Website
 
-### A Modern, Responsive & Interactive Developer Portfolio
+<!-- ===================================================== -->
+<!--              ARYAN MISHRA - CYBER README               -->
+<!-- ===================================================== -->
 
-Welcome to my personal portfolio repository.
+<div align="center">
 
-This project represents my personal brand, technical skills, creativity, and development journey. The portfolio is designed to present my projects, skills, certifications, and professional information through a clean, modern, and user-friendly interface.
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:050816,50:172554,100:7C3AED&height=220&section=header&text=ARYAN%20MISHRA&fontSize=55&fontColor=00F5FF&animation=fadeIn&fontAlignY=38&desc=DEVELOPER%20%7C%20CREATOR%20%7C%20TECH%20ENTHUSIAST&descSize=15&descAlignY=60&descColor=FFFFFF" />
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2500&pause=800&color=00F5FF&center=true&vCenter=true&width=650&lines=Welcome+to+my+Digital+Universe;React+%7C+Vite+%7C+JavaScript;Building+Modern+Digital+Experiences;Always+Learning+Something+New" />
+
+<br/>
+
+<a href="https://abhay2832.github.io/Aryanportfolio/">
+<img src="https://img.shields.io/badge/🌐_LIVE_PORTFOLIO-00F5FF?style=for-the-badge&logoColor=black" />
+</a>
+
+<a href="https://github.com/abhay2832">
+<img src="https://img.shields.io/badge/GITHUB-7C3AED?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+
+<img src="https://komarev.com/ghpvc/?username=abhay2832&label=PROFILE+VIEWS&color=00F5FF&style=for-the-badge" />
+
+</div>
+
+---
+
+# 👨‍💻 ABOUT THIS PROJECT
+
+> **Welcome to the official repository of Aryan Mishra's Personal Portfolio Website.**
+
+This project represents my personal brand, technical skills, creativity, and development journey.
+
+The portfolio is designed to present my projects, skills, certifications, and professional information through a clean, modern, and user-friendly interface.
 
 Built using **React and Vite**, the website focuses on performance, responsiveness, maintainable code, and a smooth browsing experience across desktop and mobile devices.
 
-🌐 **Live Website:** [https://abhay2832.github.io/Aryanportfolio/)
+<div align="center">
+
+### ⚡ PROJECT STATUS ⚡
+
+<img src="https://img.shields.io/badge/STATUS-PORTFOLIO%20PROJECT-00F5FF?style=for-the-badge" />
+<img src="https://img.shields.io/badge/BUILT%20WITH-REACT%20%2B%20VITE-7C3AED?style=for-the-badge" />
+
+</div>
 
 ---
 
-## 📌 Table of Contents
+# ✨ FEATURES
 
-- Overview
-- Features
-- Technology Stack
-- Project Structure
-- Getting Started
-- Installation
-- Running Locally
-- Customization Guide
-- Adding Projects
-- Managing Certificates
-- Adding Images and Media
-- Build for Production
-- Deployment
-- Future Improvements
-- Contact
-- License
+| Feature | Description |
+|---|---|
+| 🌐 Professional Portfolio | Personal website showcasing my work |
+| 🚀 Projects Showcase | Dedicated project presentation |
+| 💻 Skills & Technologies | Organized technical skills |
+| 🏆 Certificates | Certificate image gallery |
+| 📱 Responsive Design | Desktop, tablet and mobile support |
+| 🎨 Personalization | Photos, resume and media assets |
+| ⚙️ Easy Content Management | Centralized portfolio data |
+| ⚡ Modern Workflow | React + Vite development |
 
 ---
 
-## 🚀 Overview
+# 🛠️ TECHNOLOGY STACK
 
-The Aryan Mishra Portfolio is a personal website created to showcase my work, technical capabilities, interests, and ongoing development journey.
+<div align="center">
 
-The primary goal of this project is to provide a central place where visitors can explore my projects, learn about my skills, view certificates, and find relevant contact information.
+### FRONTEND DEVELOPMENT
 
-The project uses a component-based React architecture and Vite for fast development and optimized production builds.
+<img src="https://skillicons.dev/icons?i=react,vite,js,html,css" />
 
-### Project Goals
+### TOOLS & PLATFORMS
 
-- Establish a professional online presence.
-- Showcase personal and technical projects.
-- Present skills and certifications in an organized format.
-- Provide an accessible way to connect with me.
-- Maintain a website that can be updated as I learn and build new things.
+<img src="https://skillicons.dev/icons?i=git,github,vscode,npm" />
 
----
-
-## ✨ Features
-
-### Professional Portfolio
-A dedicated personal website that brings together project information, skills, certificates, and other portfolio content.
-
-### Projects Showcase
-A section for presenting projects, highlighting their purpose, and helping visitors explore my work.
-
-### Skills & Technologies
-An organized presentation of technical skills and technologies relevant to my development journey.
-
-### Certificates
-A dedicated location for certificate images and supporting portfolio information.
-
-### Responsive Experience
-Designed to provide a usable browsing experience across different screen sizes, including desktops, laptops, tablets, and mobile devices.
-
-### Media & Personalization
-Supports portfolio assets such as photos, resume files, and other media placed in the public directory.
-
-### Easy Content Management
-Many portfolio details can be maintained in a centralized data file, making routine updates easier without editing every component individually.
-
-### Modern Development Workflow
-Uses Vite for local development and production builds, together with React for reusable interface components.
-
----
-
-## 🛠️ Technology Stack
+</div>
 
 | Technology | Purpose |
 |---|---|
 | React | Component-based user interface |
-| Vite | Development server and production build tooling |
-| JavaScript | Application logic and interactive behavior |
-| CSS | Layout, styling, and responsive presentation |
+| Vite | Development and production build tooling |
+| JavaScript | Application logic and interactions |
+| CSS | Layout, styling and responsive design |
 | HTML5 | Web page structure |
-| Git & GitHub | Version control and source code hosting |
-| GitHub Actions | Automated deployment workflow, when configured |
+| Git & GitHub | Version control |
+| GitHub Actions | Automated deployment, when configured |
 | GitHub Pages | Website hosting, when configured |
 
 ---
 
-## 📂 Project Structure
-
-The repository is organized to keep application code, portfolio data, and public assets manageable.
+# 📂 PROJECT STRUCTURE
 
 ```text
 Aryanportfolio/
+│
 ├── public/
 │   ├── certificates/
 │   ├── photos and other assets
 │   ├── songs and media files
 │   └── resume files
+│
 ├── src/
 │   ├── data.js
 │   └── application components
+│
 ├── index.html
 ├── package.json
 ├── package-lock.json
@@ -115,9 +110,7 @@ Aryanportfolio/
 └── README.md
 ```
 
-*Note: The exact files and folders may differ depending on the current repository structure.*
-
-### Important Directories
+### 📁 Important Directories
 
 **`src/`**
 
@@ -129,27 +122,27 @@ Central location for supported portfolio content, including skills, projects, ce
 
 **`public/`**
 
-Contains static assets that are served directly, such as images, resume files, and supported media.
+Contains static assets such as images, resume files and supported media.
 
 **`public/certificates/`**
 
-A convenient location for certificate images used by the portfolio.
+Convenient location for certificate images.
 
 **`package.json`**
 
-Defines project scripts and dependencies required to install, develop, and build the application.
+Defines project scripts and dependencies.
 
 ---
 
-## 💻 Getting Started
+# 🚀 GETTING STARTED
 
-To run this project locally, you will need Node.js and npm installed on your computer.
+To run this project locally, you will need Node.js and npm installed.
 
 ### Prerequisites
 
 - Node.js — preferably a currently supported LTS version.
 - npm — included with Node.js.
-- Git — recommended for cloning and managing the repository.
+- Git — recommended.
 
 Verify your installation:
 
@@ -161,21 +154,21 @@ git --version
 
 ---
 
-## 📥 Installation
+# 📥 INSTALLATION
 
-Clone the repository:
+### 1. Clone Repository
 
 ```bash
 git clone YOUR_GITHUB_REPOSITORY_URL
 ```
 
-Navigate into the project directory:
+### 2. Navigate to Project
 
 ```bash
 cd Aryanportfolio
 ```
 
-Install the project dependencies:
+### 3. Install Dependencies
 
 ```bash
 npm install
@@ -183,29 +176,29 @@ npm install
 
 ---
 
-## ▶️ Run the Website Locally
+# ▶️ RUN LOCALLY
 
-Start the Vite development server:
+Start the development server:
 
 ```bash
 npm run dev
 ```
 
-Open the local URL displayed in your terminal, commonly:
+Open the local URL:
 
 ```text
 http://localhost:5173/
 ```
 
-Vite may display a different port if the default port is already in use.
+Vite may select a different port if the default is already in use.
 
-To stop the development server, press `Ctrl + C` in the terminal.
+Press `Ctrl + C` to stop the development server.
 
 ---
 
-## 🎨 Customization Guide
+# 🎨 CUSTOMIZATION GUIDE
 
-The portfolio is intended to evolve alongside my projects, skills, and experience.
+The portfolio is designed to evolve alongside my skills, projects and experience.
 
 ### Update Portfolio Content
 
@@ -215,31 +208,36 @@ Open:
 src/data.js
 ```
 
-Update the relevant existing values for:
+Update the existing values for:
 
 - Skills and technologies
 - Project information
 - Certificate entries
 - Email and contact details
-- Other content supported by the application
+- Other supported portfolio content
 
-Keep the existing variable names and data structure intact unless the corresponding application components are updated as well.
+Keep the existing variable names and data structure intact unless application components are updated too.
 
-### Add or Replace Images
+### 🖼️ Add or Replace Images
 
 Place supported image files in the appropriate public directory.
 
-Use the correct file paths in the portfolio configuration and ensure that filenames match exactly, including capitalization.
+Ensure that:
 
-### Add a Resume
+- File paths are correct.
+- Filenames match exactly.
+- Capitalization is correct.
+- Images are committed and pushed to GitHub.
 
-Place the resume file in the public directory and update the relevant portfolio link or configuration to point to the correct filename.
+### 📄 Add Your Resume
+
+Place the resume file in the public directory and update the corresponding portfolio link.
 
 ---
 
-## 🏆 Managing Certificates
+# 🏆 MANAGING CERTIFICATES
 
-Certificate images can be stored in:
+Store certificate images in:
 
 ```text
 public/certificates/
@@ -247,20 +245,18 @@ public/certificates/
 
 To add a certificate:
 
-1. Place the image file in the certificates directory.
-2. Add the corresponding entry to the certificate configuration in `src/data.js`.
+1. Place the image in the certificates directory.
+2. Add its entry to the certificate configuration in `src/data.js`.
 3. Use the correct public asset path.
-4. Save your changes and run the site locally to verify the result.
+4. Run the website locally and verify the result.
 
-Adding a file to the folder alone may not automatically create a new certificate card. The application must have logic that discovers files automatically, or the certificate must be registered in its data configuration.
+**Note:** Adding a file to the folder alone may not automatically create a certificate card.
 
 ---
 
-## 🎵 Managing Media Assets
+# 🎵 MANAGING MEDIA ASSETS
 
-The public directory can also contain supported media files.
-
-For example:
+Example directory:
 
 ```text
 public/
@@ -270,137 +266,182 @@ public/
 └── songs/
 ```
 
-The names above are illustrative. Use the folders and paths supported by the existing application.
+Verify that:
 
-When adding a new asset, verify that:
-
-- The file is committed and pushed to GitHub.
-- The referenced path is correct.
-- The file is supported by the browser.
-- The deployed website can access the asset successfully.
+- Files are committed and pushed.
+- Asset paths are correct.
+- Files are supported by the browser.
+- The deployed website can access them.
 
 ---
 
-## 📦 Production Build
+# 📦 PRODUCTION BUILD
 
-Before deployment, generate an optimized production build:
+Generate an optimized production build:
 
 ```bash
 npm run build
 ```
 
-Vite typically generates the production output in the `dist/` directory.
+Vite typically generates the production output in:
 
-To test the production build locally, run:
+```text
+dist/
+```
+
+Preview your production build:
 
 ```bash
 npm run preview
 ```
 
-Use the local preview URL printed in the terminal to check the production version.
+Open the local preview URL displayed in your terminal.
 
 ---
 
-## 🌐 Deployment
+# 🌐 DEPLOYMENT
 
-This project can be deployed using GitHub Pages with GitHub Actions, provided the repository has the appropriate workflow and Vite configuration.
+This project can be deployed using GitHub Pages with GitHub Actions, provided the appropriate workflow and Vite configuration are set up.
 
 ### GitHub Pages Deployment
 
 1. Push the latest changes to the `main` branch.
-2. Open the repository on GitHub.
+2. Open your GitHub repository.
 3. Navigate to **Settings → Pages**.
 4. Set the deployment source to **GitHub Actions**.
-5. Check the **Actions** tab for the deployment workflow.
-6. Wait for the workflow to complete successfully.
-7. Open the published website URL shown in the Pages settings.
+5. Check the Actions tab.
+6. Wait for successful deployment.
+7. Open your published website.
 
-### Deployment Considerations
+### Deployment Configuration
 
-If the repository is published under a project URL such as:
+For a project URL like:
 
 ```text
 https://USERNAME.github.io/Aryanportfolio/
 ```
 
-the Vite base path must be configured appropriately for that repository name.
+Configure the Vite base path appropriately:
 
-After updating portfolio content, commit and push the changes to trigger a new deployment if the workflow is configured to deploy automatically.
+```js
+export default {
+  base: "/Aryanportfolio/"
+}
+```
+
+After updating content, commit and push changes to trigger a new deployment if automatic deployment is configured.
 
 ---
 
-## 🔧 Troubleshooting
+# 🔧 TROUBLESHOOTING
 
 ### Changes Are Not Appearing
 
-- Confirm that the latest changes were committed and pushed.
-- Check whether the deployment workflow completed successfully.
-- Refresh the browser and check the deployed page again.
+- Check whether changes were committed and pushed.
+- Verify the deployment workflow.
+- Refresh the deployed website.
 
 ### Images or Media Are Missing
 
-- Verify the asset filename and path.
+- Verify filenames and paths.
 - Check capitalization.
-- Confirm that the asset exists in the committed repository.
-- Verify that paths work under the GitHub Pages project URL.
+- Ensure assets exist in the repository.
+- Verify paths under the GitHub Pages URL.
 
 ### Deployment Failed
 
-- Open the repository's **Actions** tab.
-- Select the failed workflow run.
-- Review the build and deployment logs.
-- Resolve the reported issue and push the fix.
+- Open the Actions tab.
+- Select the failed workflow.
+- Review build and deployment logs.
+- Fix the reported issue and push again.
 
 ### Local Development Is Not Starting
-
-Run:
 
 ```bash
 npm install
 npm run dev
 ```
 
-If errors persist, review the terminal output and confirm that Node.js is installed correctly.
+If errors persist, review the terminal output and verify your Node.js installation.
 
 ---
 
-## 🗺️ Future Improvements
+# 🗺️ FUTURE IMPROVEMENTS
 
-Potential improvements for future iterations include:
+Potential improvements for future iterations:
 
-- Additional project details and demonstrations
-- Enhanced accessibility and keyboard navigation
-- Performance and loading optimizations
-- More responsive layout refinements
-- Improved metadata and search engine optimization
-- Expanded project documentation
-- Additional interactive portfolio features
+- [ ] Additional project details and demonstrations
+- [ ] Enhanced accessibility and keyboard navigation
+- [ ] Performance and loading optimizations
+- [ ] Responsive layout refinements
+- [ ] Improved SEO and metadata
+- [ ] Expanded project documentation
+- [ ] Additional interactive portfolio features
 
-These are possible future enhancements, not a claim that every item is currently implemented.
+These are planned possibilities, not claims that all features are currently implemented.
 
 ---
 
-## 📬 Contact
+# 📊 GITHUB STATISTICS
+
+<div align="center">
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=abhay2832&show_icons=true&theme=tokyonight&hide_border=true&bg_color=050816&title_color=00F5FF&icon_color=7C3AED&text_color=FFFFFF" />
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhay2832&layout=compact&theme=tokyonight&hide_border=true&bg_color=050816&title_color=00F5FF&text_color=FFFFFF" />
+
+<br/><br/>
+
+<img width="90%" src="https://github-readme-streak-stats.herokuapp.com/?user=abhay2832&theme=tokyonight&hide_border=true&background=050816&ring=00F5FF&fire=7C3AED&currStreakLabel=00F5FF" />
+
+</div>
+
+---
+
+# 📬 CONTACT & CONNECT
+
+<div align="center">
+
+### LET'S BUILD SOMETHING AMAZING 🚀
+
+<a href="https://abhay2832.github.io/Aryanportfolio/">
+<img src="https://img.shields.io/badge/PORTFOLIO-00F5FF?style=for-the-badge&logo=googlechrome&logoColor=black" />
+</a>
+
+<a href="https://github.com/abhay2832">
+<img src="https://img.shields.io/badge/GITHUB-7C3AED?style=for-the-badge&logo=github&logoColor=white" />
+</a>
 
 **Aryan Mishra**
 
-For professional inquiries, collaboration opportunities, or questions about my projects, please use the contact information provided on my portfolio website.
+For professional inquiries, collaborations, or questions about my projects, please use the contact information available on my portfolio website.
 
-- **Portfolio:** [https://abhay2832.github.io/Aryanportfolio/)
-- **GitHub:** [View My Repositories](https://github.com/abhay2832/Aryanportfolio/tree/main)
-
----
-
-## 📄 License
-
-Unless a license file specifies otherwise, no explicit open-source license is granted by this README alone. If you want others to reuse or modify this project, consider adding an appropriate license file to the repository.
+</div>
 
 ---
 
-## 🙌 Acknowledgements
+# 📄 LICENSE
+
+Unless a license file specifies otherwise, no explicit open-source license is granted by this README alone.
+
+If you want others to reuse or modify this project, consider adding an appropriate license file.
+
+---
+
+# 🙌 ACKNOWLEDGEMENTS
 
 Thank you for visiting my portfolio repository and taking the time to explore my work.
 
 This project reflects my ongoing interest in web development, building useful digital experiences, and continuously improving my technical skills.
 
-**Built with dedication by Aryan Mishra.**
+<div align="center">
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=00F5FF&center=true&vCenter=true&width=500&lines=Thanks+for+visiting!;Keep+Building.+Keep+Learning.;Code+%7C+Create+%7C+Innovate." />
+
+<br/>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:7C3AED,50:172554,100:050816&height=120&section=footer" />
+
+**⚡ BUILT WITH DEDICATION BY ARYAN MISHRA ⚡**
+
+</div>
